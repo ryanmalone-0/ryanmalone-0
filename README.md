@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ryan Malone
 
-<!--
-**ryanmalone-0/ryanmalone-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Incoming Mechanical Engineering student at Case Western Reserve University, building toward thermal systems, liquid cooling, and AI/data-center infrastructure.
 
-Here are some ideas to get you started:
+## Current technical work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Cooling Loop Dashboard](https://github.com/ryanmalone-0/cooling-loop-dashboard) — analyzes synthetic cooling-loop data and basic thermal performance
+- [Sensor Stream Simulator](https://github.com/ryanmalone-0/sensor-stream-simulator) — generates reproducible synthetic temperature, flow, pressure, pump, load, and fault data
+- [Thermal Calculator](https://github.com/ryanmalone-0/thermal-calculator) — tested introductory heat-transfer and straight-pipe flow calculations
+
+Demonstrated tools: Python, Git, pytest, pandas, Matplotlib, and Streamlit.
+
+Currently learning more about heat transfer, fluid systems, experimental measurement, and electronics cooling.
