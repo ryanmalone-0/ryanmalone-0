@@ -1,6 +1,6 @@
 # Ryan Malone
 
-Incoming Mechanical Engineering student at Case Western Reserve University, building toward thermal systems, liquid cooling, and AI/data-center infrastructure.
+Incoming Mechanical Engineering student at Case Western Reserve University, building toward heat transfer, fluid systems, and data center cooling.
 
 ## Current technical work
 
